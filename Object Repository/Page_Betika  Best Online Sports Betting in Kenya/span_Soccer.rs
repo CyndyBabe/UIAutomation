@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Soccer</name>
+   <tag></tag>
+   <elementGuidId>21a27a11-925e-4b6b-94a9-4877eb59da3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sports-list__item__label.narrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8c25c709-7ed7-4380-8a26-f73fb65bbd29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sports-list__item__label narrow</value>
+      <webElementGuid>0b5c5910-3e47-4b0a-902d-8f4f54011001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Soccer</value>
+      <webElementGuid>95cf7f5b-b6e3-4f6e-9b38-e9b779b334da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js dark&quot;]/body[1]/div[@class=&quot;app&quot;]/div[@class=&quot;desktop-layout&quot;]/div[@class=&quot;desktop-layout__content&quot;]/div[@class=&quot;desktop-layout__content__left&quot;]/div[@class=&quot;sports-list&quot;]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[@class=&quot;sports-list__item active&quot;]/span[@class=&quot;sports-list__item__label narrow&quot;]</value>
+      <webElementGuid>5bb4c600-aa27-4888-883b-fe0cfe6a1902</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::span[2]</value>
+      <webElementGuid>55de7796-e3e1-4230-8af3-ae9e11d6c862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Matches'])[1]/following::span[3]</value>
+      <webElementGuid>ce0bfdab-4937-44c5-87d9-fd36148b8bc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boxing'])[1]/preceding::span[1]</value>
+      <webElementGuid>0ba27f20-2093-441e-adef-c1d79f0758cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Table Tennis'])[1]/preceding::span[2]</value>
+      <webElementGuid>abb3c555-1913-4a1a-bf6e-092ef9f7f404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Soccer']/parent::*</value>
+      <webElementGuid>6fec9460-0256-4261-9885-4b554b65b29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/span</value>
+      <webElementGuid>63a6c96d-cc71-4193-9f30-4f8e95fa78ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Soccer' or . = 'Soccer')]</value>
+      <webElementGuid>b0e2b6bf-cc26-4136-b0c7-ba8b19cf2864</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

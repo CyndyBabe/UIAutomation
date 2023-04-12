@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_3.95</name>
+   <tag></tag>
+   <elementGuidId>b78ebb7d-8492-494e-b147-320d83591df1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Chelsea'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3b7e5254-5dfb-4461-8ced-88e5f728a8d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prebet-match__odd__odd-value bold</value>
+      <webElementGuid>0b72d258-85b1-4a2e-bd9c-21c6580ba162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3.95</value>
+      <webElementGuid>c1e86ba7-7eea-4a39-871b-5664a8216af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js dark&quot;]/body[1]/div[@class=&quot;app&quot;]/div[@class=&quot;desktop-layout&quot;]/div[@class=&quot;desktop-layout__content&quot;]/div[@class=&quot;desktop-layout__content__center&quot;]/div[@class=&quot;contain-overflow&quot;]/div[@class=&quot;matches__container&quot;]/div[@class=&quot;matches&quot;]/div[1]/div[@class=&quot;prebet-match&quot;]/div[@class=&quot;prebet-match__odd-market__container&quot;]/div[@class=&quot;prebet-match__odds__container&quot;]/div[@class=&quot;prebet-match__odds&quot;]/button[@class=&quot;prebet-match__odd&quot;]/span[@class=&quot;prebet-match__odd__odd-value bold&quot;]</value>
+      <webElementGuid>67584ffc-cc7b-44e1-8b7a-73150b2a0790</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chelsea'])[1]/following::span[2]</value>
+      <webElementGuid>90d2974e-5327-4496-a9b2-d8fd4624d229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Real Madrid'])[1]/following::span[3]</value>
+      <webElementGuid>0463cf7c-4ff4-4a93-954e-8dd37376b68c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upcoming Live'])[2]/preceding::span[2]</value>
+      <webElementGuid>aba2527f-3a04-410c-b56b-d3613fad4b71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='esport'])[2]/preceding::span[3]</value>
+      <webElementGuid>f95c1471-bc87-4032-8186-3448a19ef0fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3.95']/parent::*</value>
+      <webElementGuid>d1e4219f-3524-4f7c-9b2e-97772a46a3e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div[2]/div/button[2]/span</value>
+      <webElementGuid>9856a2c9-bc0a-450b-a6b0-05f241be1088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '3.95' or . = '3.95')]</value>
+      <webElementGuid>b3eaa347-7b5d-419b-bb28-6a1911785161</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
